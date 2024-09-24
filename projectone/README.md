@@ -33,7 +33,6 @@ Here's a walkthrough of implemented required features:
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
-<!-- Recommended tools:
 [Clipchamp](https://clipchamp.com/en/) for Windows
 
 ## Notes
