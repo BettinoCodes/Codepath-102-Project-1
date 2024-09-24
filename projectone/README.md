@@ -15,7 +15,7 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-- [X] Buttons or links to a related resources are on each card component
+- [X] Buttons or links to related resources are on each card component
 - [X] The site is responsive for both desktop and mobile formats
 
 The following **additional** features are implemented:
@@ -25,6 +25,8 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
+
+
 ![gamingreact](https://github.com/user-attachments/assets/5c0da584-1a23-4b2d-a85c-5c50722cf766)
 
 
@@ -32,17 +34,17 @@ Here's a walkthrough of implemented required features:
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
 <!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+[Clipchamp](https://clipchamp.com/en/) for Windows
 
 ## Notes
 
 Describe any challenges encountered while building the app.
 
+I faced many issues converting my code to using props because using them would give me a white screen. I also faced issues with git pushing my web app into my main branch.
+
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2024] [Bettino Gaussaint]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
